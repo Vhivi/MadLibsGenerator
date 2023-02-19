@@ -23,7 +23,7 @@ def main():
     adj2 = input("Un adjectif masculin singulier : ")
     adj3 = input("Un adjectif masculin singulier : ")
 
-    prin("")
+    print("")
     print("L'histoire de "+ name1 +", se déroule dans une galaxie qui est le")
     print("théâtre d'affrontements entre les "+ name2 +" et les")
     print("Seigneurs Sith, personnes "+ adj1 +" sensibles à la Force, un")
